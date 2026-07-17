@@ -30,7 +30,7 @@ The dashboard enables users to explore booking trends, cancellation behavior, cu
 
 ## 📊 Dashboard Preview
 
-> ![Hotel Booking Dashboard](dashboard.jpeg)
+ ![Hotel Booking Dashboard](dashboard.jpeg(
 
 ---
 
@@ -61,7 +61,7 @@ The dashboard enables users to explore booking trends, cancellation behavior, cu
 
 ## 📁 Project Files
 
-- Hotel_Booking_Analysis.xlsx → Complete Excel Project
+- Hotel_Booking_Analysis_Dashboard.xlsx → Complete Excel Project
 - README.md → Project Documentation
 
 ---
