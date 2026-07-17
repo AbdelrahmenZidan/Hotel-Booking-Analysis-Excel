@@ -30,7 +30,7 @@ The dashboard enables users to explore booking trends, cancellation behavior, cu
 
 ## 📊 Dashboard Preview
 
-> *(Dashboard screenshot will be added here.)*
+> ![Hotel Booking Dashboard](dashboard.jpeg)
 
 ---
 
